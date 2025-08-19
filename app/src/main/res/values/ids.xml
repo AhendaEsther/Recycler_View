@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvTitle" type="id" />
+    <item name="tvBody" type="id" />
+    <item name="tvUserId" type="id" />
+    <item name="rvPosts" type="id" />
+    <item name="rvComments" type="id" />
+    <item name="tvPostTitle" type="id" />
+    <item name="tvPostBody" type="id" />
+</resources>
